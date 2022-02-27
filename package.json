@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/minion14/Backend/issues"
   },
-  "homepage": "https://github.com/minion14/Backend#readme"
+  "homepage": "https://github.com/minion14/Backend#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
